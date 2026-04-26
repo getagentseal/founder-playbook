@@ -37,45 +37,22 @@ Two things presented sequentially → second seems MORE different from first tha
 
 ### Key Experiments
 
-**Regan's Cornell Study (1971):**
-- "Joe" gives subjects a Coke (10¢) during break
-- Later asks them to buy raffle tickets ($1 each)
-- Subjects who got the Coke bought ~2x more tickets on average
-- Surprise finding: liking didn't matter - even subjects who DISLIKED Joe still reciprocated
-- Note: "500% return on cost of the Coke" framing oversimplifies the math; the 2x compliance effect is the verified result
+[Regan, 1971] found that subjects who received a small unsolicited favor (a soft drink) were roughly twice as likely to comply with a later request, compared to a control group. The effect persisted even when subjects disliked the person who gave the favor, indicating reciprocity can override personal liking.
 
-**Hare Krishna Flower Tactic:**
-- Airport recruiters give travelers a "free" flower
-- Then ask for donation
-- Travelers who tried to refuse felt obligated, donated anyway
-- Krishna had so much money they assigned workers to retrieve discarded flowers
-
-**Disabled American Veterans Letter:**
-- Standard fundraising letter: 18% response rate
-- Same letter + free address labels (no monetary value, but a "gift"): **35% response rate**
-- The labels triggered reciprocation
-
-**Magruder/Watergate:**
-- Nixon needed $1M for break-in. Mitchell countered with $500K. Settled at $250K.
-- Mitchell felt obligated to "compromise" because Magruder had "compromised" first.
-- The $250K of Watergate broke a presidency.
+[Disabled American Veterans study] found that including small free gifts (address labels) with a fundraising letter nearly doubled the response rate (from 18% to 35%), demonstrating that even token, unsolicited gifts trigger reciprocity.
 
 ### Door-in-the-Face Technique (Reciprocity of Concessions)
 
 Make a LARGE request first that will be refused. Then make the actual smaller request. The "concession" triggers reciprocity.
 
-**Cialdini's juvenile delinquent zoo trip experiment:**
-- "Spend 2 hours/week for 2 years counseling delinquents?" (almost everyone refused)
-- "Take a group of delinquents to the zoo for one afternoon?"
-- **17% complied** when asked the small request alone
-- **50% complied** when the big request preceded the small one
+[Cialdini et al., 1975] found that preceding a moderate request with a large, refused request tripled compliance (from 17% to 50%). The "concession" from the large to the small request triggered reciprocal concession from the target.
 
-**Backfire condition (not in book):** If first request is too extreme, you appear unreasonable and people refuse the second too. Calibrate the anchor.
+**Backfire condition (not in book):** If the first request is too extreme, the requester appears unreasonable and people refuse the second too. Calibrate the anchor.
 
 ### Defenses
 - Don't blanket-refuse all gifts - many are genuine
 - Mentally redefine genuine gifts vs compliance traps - if someone gives a gift then asks for something, the gift was a sales tool, not a gift
-- The 10-year-old flower-girl story: Cialdini's daughter accepted a flower from a Krishna, then asked Cialdini to give the man a dollar. Cialdini paid. The girl had been weaponized.
+- Children are especially susceptible: even a child who receives an unsolicited gift may pressure a parent to reciprocate on the giver's behalf.
 
 ### How Marketers Exploit
 - Free samples (Costco)
@@ -99,38 +76,13 @@ We desire consistency because:
 
 ### Key Experiments
 
-**Knox & Inkster Racetrack:**
-- Bettors interviewed BEFORE placing bet: "Just a fair chance"
-- Same bettors AFTER placing bet: "Going to win!"
-- Confidence shot up the moment they committed financially
+[Knox & Inkster, 1968] found that racetrack bettors rated their horse's chances significantly higher immediately after placing a bet than immediately before. The act of committing financially increased confidence in the decision.
 
-**Sara/Tim Lowball:**
-- Sara wants to break up with Tim. He proposes living together.
-- She accepts. Tim then announces he's keeping his old apartment, can't help with rent.
-- Sara stays anyway. She'd already committed.
+[Schein, 1956] documented that Chinese captors during the Korean War used escalating small commitments -- beginning with minor written criticisms, then public readings, then signatures -- to shift prisoners' beliefs over time. The technique relied on consistency pressure, not physical coercion.
 
-**Korean War POW Brainwashing (Schein):**
-- Chinese didn't torture - extracted small commitments first
-- Step 1: "Write a few criticisms of America" (mild)
-- Step 2: "Read it aloud to other prisoners"
-- Step 3: "Sign your name"
-- Step 4: Each step required justifying the previous
-- Result: prisoners came to genuinely believe their statements
-- Chinese motto: "Start small and build."
+[Freedman & Fraser, 1966] found that homeowners who had previously agreed to a small related request (posting a 3-inch sign) were dramatically more likely to accept a large request (a lawn billboard): 76% vs. 17% for a cold ask. A prior commitment on a different topic (a petition) produced ~50% compliance -- elevated but lower, showing same-topic commitment carries over more strongly.
 
-**Freedman & Fraser Drive Carefully Study:**
-- Asked homeowners to put a HUGE ugly "DRIVE CAREFULLY" billboard on their lawn
-- Direct ask (no prior commitment): 17% agreed
-- **Small-sign condition** (had previously agreed to a 3-inch "BE A SAFE DRIVER" sign): **76% agreed** to the billboard
-- **Petition condition** (had signed a "Keep California Beautiful" petition - different topic): **~50% agreed** to the billboard
-
-**Important disambiguation:** The "76%" figure is ONLY for the small-sign condition. The petition-only condition produced ~50% (still elevated vs control, but lower). Conflating these underestimates the difference between same-topic vs cross-topic commitment carryover.
-
-**Sherman's Cancer Volunteers:**
-- Called subjects: "If asked, would you volunteer 3 hours for the American Cancer Society?"
-- Most said yes (low cost, hypothetical)
-- 3 days later: actual call asking them to volunteer
-- 700% increase in volunteers vs control
+[Sherman, 1980] found that subjects who were first asked hypothetically whether they would volunteer for a cause were 700% more likely to actually volunteer when contacted days later, compared to a control group with no prior hypothetical commitment.
 
 ### The 4 Conditions That Make Commitments More Powerful
 
@@ -198,28 +150,17 @@ If no → walk away regardless of social pressure.
 
 ### Key Experiments (Lab-Verified)
 
-**Canned Laughter:**
-- TV producers know audiences think canned laughter is annoying
-- Yet they keep using it because audiences laugh more and rate shows funnier
-- Click-whirr: "if others are laughing, this must be funny"
+**Canned Laughter:** Despite audience self-reports of finding it annoying, laugh tracks reliably increase laughter and humor ratings -- a pure social-proof heuristic.
 
-**Bartenders & Buskers:** Salt the tip jar with a few bills. Patrons tip more.
+**Bartenders & Buskers:** Pre-seeding a tip jar with bills increases subsequent tips from patrons.
 
-**Bandura's Dog Fear Studies:**
-- Children afraid of dogs watched a peer happily playing with a dog 20 min/day for 4 days
-- 67% would now interact with dogs
-- Same effect from FILMS of children playing with dogs
+[Bandura, Ross & Jones, 1969] found that children afraid of dogs who observed a peer interacting happily with a dog showed a lasting reduction in fear -- 67% would interact with dogs afterward. Film of the same interaction produced comparable results.
 
-**O'Connor's Withdrawn Preschoolers:**
-- Showed shy children films of similar children playing happily
-- Effect lasted 6+ weeks after one viewing
+[O'Connor, 1969] found that showing socially withdrawn preschoolers a film of similar children playing happily produced measurable social engagement improvements lasting 6+ weeks after a single viewing.
 
-**Latane & Darley Bystander Studies (LAB - Reliable):**
-- More witnesses → LESS likely any individual will help
-- "Smoke in the room" study: alone, 75% reported smoke. With 2 passive others, 10%
-- Defense: in emergency, **single out one person** ("YOU in the blue shirt - call 911")
+[Latane & Darley, 1968] established that as the number of bystanders increases, individual likelihood of helping decreases. In their "smoke-filled room" study, 75% of solo subjects reported smoke, compared to only 10% when two passive confederates were present. Defense: in an emergency, single out one person ("YOU in the blue shirt -- call 911").
 
-**Modern Update (Fischer et al. 2011):** Bystander effect REVERSES in clear-emergency dangerous situations - groups DO help more when threat is unambiguous. Bystander diffusion is real but smaller than originally claimed.
+**Modern update:** [Fischer et al., 2011] meta-analysis found the bystander effect reverses in clearly dangerous emergencies -- groups do help more when threat is unambiguous. The effect is real but smaller in magnitude than originally claimed.
 
 ### Note on Genovese
 
@@ -229,22 +170,11 @@ The Kitty Genovese "38 witnesses" story (1964) is largely fabricated by the *NYT
 
 Social proof is dramatically stronger when proof comes from people LIKE us.
 
-**Columbia Lost Wallet Study:**
-- Wallets returned more often when "lost" by someone similar to finder
+[Hornstein et al., 1968] found in a lost-wallet field study that wallets were returned more often when the apparent prior owner was similar to the finder.
 
-**Hare Krishna Recruitment:**
-- Recruiters dressed like targets
+[Phillips, 1974] found that publicized suicides are followed by a measurable spike in suicide rates over the following two weeks, with the effect strongest when the publicized individual is demographically similar to the at-risk population. (Phillips' specific magnitude estimates are contested in subsequent reanalyses; the directional finding is more robust than the numbers.)
 
-**Werther Effect (Phillips Research):**
-- Goethe's "Sorrows of Young Werther" caused suicide spike
-- After front-page suicide stories, suicide rates spike for 2 weeks
-- (Phillips' specific suicide-spike numbers are contested in subsequent statistical reanalyses; the directional finding is more robust than the magnitude.)
-
-**Festinger's Doomsday Cult ("When Prophecy Fails"):**
-- Cult predicted world ending Dec 21
-- When it didn't happen, members became MORE evangelical
-- Why? They'd quit jobs, sold homes - committed too much. Needed others to validate.
-- Note: Festinger's doomsday account is contested by historians as overdramatized.
+[Festinger, Riecken & Schachter, 1956] documented that members of a doomsday cult became more evangelical after their prophecy failed, likely because the depth of their prior commitment required social validation to sustain their beliefs. (Note: Festinger's account is contested by historians as overdramatized.)
 
 ### How Marketers Exploit
 - Customer testimonials (especially from similar-looking customers)
@@ -282,10 +212,7 @@ Attractive people perceived as more talented, kind, honest, intelligent.
 
 We like people similar in opinions, background, lifestyle, dress.
 
-**Hippie/Straight Dime Study (1971):**
-- Subject asked stranger for a dime
-- Similar dress (hippie/straight): 2x compliance
-- Mismatched: low compliance
+[Emswiller, Deaux & Willits, 1971] found that a stranger's compliance with a small request (lending a dime) doubled when the requester was dressed similarly to the target, compared to when their dress style was mismatched.
 
 **Mirror-and-match:** Salespeople trained to mirror posture, speech patterns, dress.
 
@@ -293,24 +220,15 @@ We like people similar in opinions, background, lifestyle, dress.
 
 We're suckers for flattery, even when we know it's manipulation.
 
-**Joe Girard ("Greatest Salesman"):**
-- Sold cars for Chevy, set Guinness records
-- His secret: sent every customer a card every month
-- 13,000+ former customers, 12 cards/year
-- Card said: "I like you. - Joe Girard"
-- That was it. And it worked.
+**Joe Girard**, Guinness record-holding car salesman, attributed his success to sending every past customer a monthly card containing only the message "I like you." Simple, repeated flattery at scale drove extraordinary repeat business and referrals.
 
 ### Sub-Factor 4: Contact and Cooperation
 
 **Mere Exposure Effect:** We like things more after seeing them more.
 
-**Sherif's Robbers Cave Study (1954):**
-- Two groups of boys at summer camp put in competition → enemies
-- Forced cooperation on shared problems → friends
+[Sherif et al., 1954] found in the Robbers Cave field experiment that intergroup competition created hostility between groups of boys, but introducing shared goals requiring cooperation converted the hostility into friendship.
 
-**Aronson's Jigsaw Classroom:**
-- Each student given one piece of info; class needs all pieces to learn
-- Forced cooperation → reduces racial tension, improves performance
+[Aronson et al., 1978] developed the "jigsaw classroom" technique, where each student holds one piece of required information. This forced interdependence reduced racial tension and improved academic performance.
 
 **Good Cop / Bad Cop:**
 - Bad cop intimidates
@@ -323,21 +241,13 @@ Pavlov's principle. We associate good/bad feelings with whatever's nearby.
 
 **Persian Messengers:** Bringer of bad news executed. Bringer of good news rewarded.
 **Modern Weatherman Hate Mail:** Forecasters get death threats over rain forecasts.
-**Cars With Models:** Same car shown with vs without attractive model: with model rated faster, sleeker, more appealing. Subjects DENY the model affected judgment.
+**Cars With Models:** Research shows that the same car rated alongside an attractive model is perceived as faster and more appealing. Subjects deny the model influenced their judgment.
 
-**Tupperware Parties:**
-- Hostess (a friend) → liking
-- Bingo games → fun
-- Group → social proof
-- All wrapped together = devastating compliance package
+**Tupperware Parties:** Combine multiple compliance levers -- a friend as hostess (liking), games (positive association), group attendance (social proof) -- into a single sales format.
 
 ### Sub-Factor 6: Sports Fan Behavior (BIRG)
 
-**Basking in Reflected Glory** - Cialdini's own research:
-- Universities won → students wore school sweatshirts (Monday after games)
-- Universities lost → students avoided school colors
-- After wins, students said "WE won." After losses, "THEY lost."
-- 1980 Olympic Hockey "Miracle on Ice" held as identity by millions who'd never played hockey
+[Cialdini et al., 1976] coined "Basking in Reflected Glory" (BIRG) after finding that university students were significantly more likely to wear school apparel after team wins and to use "we" for wins but "they" for losses. People associate themselves with successful others to enhance their own perceived status.
 
 ### Defenses
 
@@ -355,41 +265,19 @@ Ask: "Would I buy this from a stranger I disliked at the same price?"
 
 ### Milgram Obedience Experiments (1961)
 
-The most famous social psychology study ever conducted.
+[Milgram, 1963] found that subjects instructed by an authority figure to administer escalating electric shocks to a protesting learner (actually an actor) showed striking obedience. In the most-cited condition, 65% complied to the maximum level. However, Milgram ran 24 conditions with compliance ranging from 0% to 92% -- the single "65%" figure obscures massive variation driven by proximity of authority, presence of dissenting peers, and other factors.
 
-**Setup:** Subjects told they were in a learning experiment. Told to deliver shocks to a "learner" (actor). Shocks went up to 450V (marked "DANGER: SEVERE SHOCK").
+Key finding: removing or undermining the authority figure (moving them out of the room, introducing a disagreeing second authority, or substituting a peer) caused compliance to plummet.
 
-**Predictions:** Psychiatrists predicted < 1% would go to maximum shock.
-
-**Reality:** **65% went to 450V** in ONE specific condition. **Important caveat:** Milgram ran 24 different experimental conditions. Compliance ranged from **0% to 92%** depending on setup. The famous "65%" figure obscures massive variation.
-
-The only difference between subjects who stopped vs continued: **the experimenter (authority figure) telling them to keep going.**
-
-**Variations:**
-- Move authority away → compliance plummets
-- Replace authority with peer → no compliance
-- Two authorities disagreeing → no compliance
-
-**Modern context:**
-- Burger 2009 partial replication: ~70% compliance, but capped at 150V due to ethics review.
-- Perry 2012 archival critique disputes Milgram's data integrity.
+**Modern context:** [Burger, 2009] partially replicated the result (~70% compliance, capped at 150V for ethics). [Perry, 2012] archival critique disputes aspects of Milgram's data integrity.
 
 ### Modern Examples
 
-**Dr. Eyedrops:**
-- Doctor wrote: "Place in R ear"
-- Nurse interpreted "R ear" as "Rear"
-- Patient's rectum did not have an earache. Both nurse AND patient complied without question.
+[Cohen & Davis, 1981] documented a case where a nurse misread a physician's abbreviation ("R ear" as "Rear") and administered medication rectally without questioning the instruction -- illustrating blind compliance with perceived medical authority.
 
-**Hofling Hospital Study (1966):**
-- Nurses received call from "Dr. Smith" (unknown)
-- Told to give patient 20mg of "Astrogen" (made-up drug, label said max 10mg, not on approved list)
-- **95% of nurses prepared to administer the dose**
-- **Critical caveat:** This is the original 1966 result. Modern replications find lower rates (~16-30%) because nurses now have explicit refusal training and protocols. The original study is replicated less reliably than presented.
+[Hofling et al., 1966] found that 95% of nurses in a field study were prepared to administer an unsafe dose of an unfamiliar drug based solely on a phone call from an unknown doctor. Critical caveat: modern replications find much lower rates (~16-30%) due to updated refusal training and protocols.
 
-**Australian Height Study:**
-- Same person introduced as "Mr. X" (student) vs "Dr. X" (professor) to different classes
-- "Dr. X" estimated 2.5 inches taller than "Mr. X"
+[Wilson, 1968] found that the same person was estimated as 2.5 inches taller when introduced as a professor than when introduced as a student, demonstrating how authority titles distort even physical perception.
 
 ### The 3 Symbols of Authority
 
@@ -399,33 +287,15 @@ The only difference between subjects who stopped vs continued: **the experimente
 | **Clothing** | Uniforms, business suits, lab coats |
 | **Trappings** | Cars, watches, offices |
 
-### Bickman's Studies (Verified Numbers)
+### Bickman's Studies
 
-Bickman's basic procedure: ask passersby to comply with an "odd request" (pick up a discarded paper bag, stand on the other side of a bus-stop sign). Half the time the requester wore street clothes, half a security guard's uniform.
+[Bickman, 1974] found that compliance with arbitrary requests from a stranger (e.g., giving a coin to a third party) jumped from 42% to 92% when the requester wore a security guard uniform instead of street clothes. Same person, same words -- only the clothing changed.
 
-**The headline parking-meter task:**
-- Requester points to a man fifty feet away at a parking meter
-- Says: "You see that guy over there by the meter? He's overparked but doesn't have any change. Give him a dime!"
-- Requester turns the corner and walks away
-- Compliance:
-  - In street clothes: **42%**
-  - In security guard uniform: **92%**
-- Same person, same words.
+[Lefkowitz, Blake & Mouton, 1955] found that pedestrians were 3.5x more likely to jaywalk following a confederate wearing a business suit than one in casual clothes, demonstrating that clothing-based authority cues influence behavior even in trivial contexts.
 
-**Important:** Some sources cite "19%" for the street-clothes condition, but the source-verified number for the parking-meter task is **42%**. The "19%" figure is unverified.
+### The Apparent Counter-Interest Tactic
 
-**Texas Jaywalker Study:**
-- Confederate jaywalked
-- In sloppy clothes: few followed
-- In business suit: **3.5x more pedestrians** followed him into traffic
-
-### The Vincent the Waiter Trick (Apparent Counter-Interest)
-
-**Note: This is illustrative anecdote, not a controlled study.** Read with that in mind.
-
-Vincent's restaurant tactic: when customers ordered, Vincent would gently steer them away from the most expensive items ("That's a bit heavy tonight, I'd recommend the chicken"). This created an aura of trustworthy expertise. THEN, when he recommended a $30 wine pairing, customers trusted him completely. He was working AGAINST his interest on small things to be trusted on big things. Tips reportedly went up.
-
-**Modern version:** Sales reps who say "Honestly, this isn't the right fit for you," then recommend a more expensive option.
+**Anecdotal, not a controlled study.** The pattern: a salesperson steers a customer away from one option (appearing to sacrifice commission), then recommends a higher-margin alternative. By seeming to work against their own interest on a small item, they gain trust for the larger recommendation. Modern version: sales reps who say "Honestly, this isn't the right fit for you," then upsell.
 
 ### Defenses
 
@@ -448,41 +318,21 @@ If the answer to either is "no" or "not really" → ignore the authority cue.
 
 ### Key Experiments
 
-**Worchel Cookie Study:**
-- Same cookies in two jars
-- Jar 1: full of cookies
-- Jar 2: only 2 cookies left
-- Subjects rated cookies in Jar 2 as MORE delicious
-- Same cookies. Different perceived scarcity.
+[Worchel, Lee & Adewole, 1975] found that identical cookies were rated as more desirable and better-tasting when presented in a nearly empty jar (2 remaining) versus a full jar. Perceived scarcity alone changed the subjective experience.
 
-**Knishinsky Beef-Importing Study (1982):**
-- Beef wholesalers told one of three things:
-  - Standard sales pitch
-  - Standard pitch + "weather may cause shortage"
-  - Standard pitch + "weather may cause shortage" + "this info is exclusive to you"
-- Sales: 1x → 2x → **6x**
-- Scarcity + exclusivity = devastating
+[Knishinsky, 1982] found that beef wholesalers purchased twice as much when told supply might be scarce, and six times as much when additionally told the scarcity information itself was exclusive. Scarcity of the product combined with scarcity of the information produced the strongest effect.
 
-**Three-Eyed Stamp:** Misprinted Washington stamp (defect = scarce) sold for thousands. The DEFECT made it valuable.
+**Three-Eyed Stamp:** A misprinted Washington stamp sold for thousands of dollars -- the manufacturing defect created scarcity, which created value.
 
 ### Psychological Reactance Theory (Brehm, 1966)
 
 When freedom to do something is restricted, we want it MORE.
 
-**Brehm Plexiglas Experiment:**
-- Toddlers had two toys. One blocked by Plexiglas, one accessible.
-- 2-year-old boys: 3x more likely to grab the blocked toy
-- Girls showed less effect
+[Brehm, 1977] found that toddlers (especially 2-year-old boys) were 3x more likely to reach for a toy placed behind a barrier than an equally accessible toy, demonstrating reactance to restricted freedom from a very early age.
 
-**Romeo and Juliet Effect:**
-- Driscoll Colorado study, 140 couples
-- Couples whose parents OPPOSED the relationship had MORE intense feelings
-- (Note: contested by Sinclair 2014 on replication grounds.)
+[Driscoll, Davis & Lipetz, 1972] found that parental opposition to a romantic relationship was correlated with increased intensity of romantic feelings ("Romeo and Juliet effect"). (Note: contested by [Sinclair et al., 2014] on replication grounds.)
 
-**Censorship Backfire:**
-- Chicago jury study (Broeder 1959): jurors told to disregard inadmissible evidence increased award
-- $33K (no information) → $37K (information allowed) → **$46K (information ruled inadmissible)**
-- Forbidden info has MORE weight than allowed info
+[Broeder, 1959] found in a mock-jury study that jurors told to disregard inadmissible evidence actually weighted it more heavily than jurors who received the same evidence without restriction -- forbidden information had more influence, not less ($33K baseline vs. $46K when evidence was ruled inadmissible).
 
 **Streisand Effect:** Modern internet version. Trying to suppress info amplifies it.
 
@@ -500,8 +350,7 @@ When freedom to do something is restricted, we want it MORE.
 ### When Scarcity Is Strongest
 
 **Newly Scarce > Always Scarce:**
-- Worchel had a third condition: cookies that started full but became scarce DURING the experiment
-- Those cookies rated MOST delicious
+[Worchel et al., 1975] also found that cookies that transitioned from abundant to scarce during the experiment were rated most desirable of all -- newly restricted access is more powerful than consistently limited access.
 
 **Davies Revolution Thesis:**
 - Revolutions happen NOT in conditions of constant deprivation
@@ -557,7 +406,7 @@ The opener of "fellow [X]" claims shared identity, which is much stronger than "
 
 ### Key Experiment
 
-**Cialdini's same-town reviewer study:** Students were told that a peer had reviewed their work. Half were told the reviewer was born in the same town as them; half were told a different town. Shared hometown - a purely incidental identity overlap with no bearing on the quality of the review - produced significantly higher compliance with the reviewer's suggestions. Same words, different identity signal, different outcome.
+[Cialdini et al.] found that students shown feedback from a reviewer who shared their hometown were significantly more compliant with the reviewer's suggestions than those told the reviewer was from a different town. A purely incidental identity overlap -- with no bearing on review quality -- changed the outcome.
 
 ### The Mechanism
 

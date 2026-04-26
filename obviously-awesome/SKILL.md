@@ -113,7 +113,7 @@ Define a new category you can lead.
 
 **Example:** Eloqua coined "marketing automation": $12M → $96M → $870M Oracle acquisition.
 
-**Mark Organ (Eloqua founder) on Style 3:** "The most successful efforts in category creation do not result from company executives creating an acronym at an offsite. Rather they are discovered from deeply understanding a narrow set of customers. These customers are often **'freaks,' extreme in their attitudes and behavior**, forged by tectonic technological and societal shifts."
+Mark Organ (Eloqua founder) found that successful category creation comes from deeply understanding a narrow set of extreme early customers, not from executives brainstorming acronyms at offsites. The category emerges from observed behavior, not invented positioning.
 
 When both a new market boundary AND new evaluation criteria are needed, consider creating a new category. With only one needed, stay within existing category structure. Treat as a heuristic.
 

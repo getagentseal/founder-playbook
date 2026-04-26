@@ -1,58 +1,20 @@
 # SPIN Selling - Case Studies & Canonical Examples
 
-The teaching cases referenced from [SKILL.md](SKILL.md). The Easiflo transcript is the most valuable teaching artifact in the book.
+The teaching cases referenced from [SKILL.md](SKILL.md). The Easiflo example is the most valuable teaching artifact in the book.
 
 ---
 
 ## The Easiflo $120,000 Example (Canonical Implication Chain)
 
-The book's best teaching transcript. Same problem, same buyer, two different sellers.
+The book's central teaching example. Same product, same buyer, two different sellers.
 
 ### Without Implication Questions (FAILS)
 
-```
-SELLER (Situation): Do you use Contortomat machines?
-BUYER: Yes, three of them.
-
-SELLER (Problem): Are they difficult for operators to use?
-BUYER (Implied Need): Rather hard, but we've learned to manage.
-
-SELLER: Our Easiflo system would solve that.
-
-BUYER: What does it cost?
-SELLER: $120,000 for the basic system.
-
-BUYER: $120,000?! Just to make a machine easier to use?! You must be kidding.
-```
+The first seller identified the problem (hard-to-use machines), then immediately offered the $120K Easiflo solution. The buyer rejected it as absurdly expensive for such a minor inconvenience.
 
 ### With Implication Questions (WORKS)
 
-```
-SELLER (Implication): What effect does this have on your output?
-BUYER: Trained operators handle it.
-
-SELLER (Implication): If you've only got three trained, doesn't that create bottlenecks?
-BUYER: Yes, especially when one leaves - we have turnover.
-
-SELLER (Implication): What does this turnover cost in training?
-BUYER: About $5,000 per operator. We've trained 5 in the last 6 months.
-
-SELLER (Implication): So you've never had three fully competent operators at once.
-                    How much production loss?
-BUYER: We've had to use overtime - 2.5x rate.
-
-SELLER (Implication): And quality on overtime work?
-BUYER: We've had to send some outside, quality control suffered.
-
-SELLER (Implication): And being at the mercy of others' delivery schedules?
-BUYER: I spent 3 hours yesterday chasing a late delivery.
-
-[seller summarizes the cascade of consequences]
-
-BUYER: Those Contortomat machines are creating a very serious problem indeed.
-```
-
-**Now $120K feels like a bargain.**
+The second seller asked a chain of Implication Questions that made the buyer quantify the cascading consequences of the same problem: ~$25K in operator turnover/training costs, overtime at 2.5x rates, outsourced work with quality issues, and hours of personal time lost chasing deliveries. By the end, the buyer himself concluded the problem was serious -- and $120K felt like a bargain against the total cost he had just calculated.
 
 ### The Lesson
 
@@ -73,10 +35,7 @@ Personal-interest openings work in small sales but don't predict success in majo
 
 ### The Anecdote
 
-A senior buyer at British Petroleum kept a yacht photo on his desk. A vendor opened with: "Beautiful yacht. Do you sail much?"
-
-The buyer's response:
-> "I hate sailing. The picture's there to remind me how much time gets wasted on the water. Now what did you want to see me about?"
+A vendor at BP tried to build rapport by commenting on a photo in a senior buyer's office. The attempt backfired -- the buyer had no interest in small talk and wanted to get straight to business.
 
 ### The Lesson
 
@@ -84,13 +43,9 @@ Senior buyers' time is expensive. They don't want a 5-minute warm-up. The "build
 
 ---
 
-## The Index-Cards-on-the-Desk Anecdote (Closing in Major Sales)
+## The Index-Cards Anecdote (Closing in Major Sales)
 
-A senior buyer kept index cards with closing technique names typed on them.
-
-When a vendor used an "Assumptive Close," the buyer placed the ASSUMPTIVE CLOSE card on his desk:
-
-> "That's your first chance. I give people two. If you use just one more closing technique on me, then it's no sale."
+A senior buyer kept labeled cards on his desk for each common closing technique. When a vendor tried a close, the buyer identified the technique by name and warned that one more would end the meeting.
 
 ### The Lesson
 
@@ -126,13 +81,7 @@ If you try a new SPIN behavior and your first call goes badly, that's expected. 
 
 ## Quincy's Rule - Origin
 
-The hardest distinction in SPIN training was Implication vs Need-payoff. Researchers couldn't reliably classify them. Trainers couldn't reliably teach the difference.
-
-A trainer's 8-year-old daughter Quincy heard the question: "What's the difference?" She replied:
-
-> "Implication Questions are always sad. Need-payoff Questions are always happy."
-
-That's it. The 8-year-old solved the framework's hardest classification problem with two sentences.
+Distinguishing Implication from Need-payoff Questions was the hardest classification problem in SPIN training. The simplest test came from an unexpected source: Implication Questions are "sad" (they make the problem feel bigger) and Need-payoff Questions are "happy" (they make the solution feel closer).
 
 ### The Lesson
 
@@ -273,9 +222,7 @@ Quantity precedes quality in skill development. Letting yourself ask "bad" quest
 
 ## The Company-President Anecdote (Practice in Safe Situations)
 
-A company president was about to negotiate the biggest sale of his career - selling his company. After attending Rackham's program, he asked for last-minute advice. Rackham's reply:
-
-> "Forget every single thing you've heard on this program; otherwise you'll spend the rest of your life regretting you came here."
+A company president who had just learned SPIN wanted to immediately apply it in the highest-stakes negotiation of his career. Rackham advised him not to -- new techniques should never be debuted in critical situations where the cost of awkward execution is catastrophic.
 
 ### The Lesson
 

@@ -148,9 +148,9 @@ Replacing paper-check management for organized middle-class households.
 - **Product alternative:** Andrew Tobias's "Managing Your Money" (positioned as power-user tool)
 - **Whole product:** Quicken was simpler, integrated with banks, and shipped with a coherent register-replacement workflow
 
-### The Two-Sentence Positioning
+### The Positioning Approach
 
-> "For small businesses and busy people who need to manage their personal finances, who are dissatisfied with paper checkbooks, Quicken is a personal finance software product that automates the chores of writing checks and balancing books. Unlike Andrew Tobias's Managing Your Money, we have assembled the simplest interface and the deepest bank-data integration."
+Quicken positioned against paper checkbooks (the market alternative) rather than competing software. Their positioning targeted small businesses and busy individuals dissatisfied with manual finance management, emphasizing simplicity and bank integration as differentiators against the incumbent alternative (Managing Your Money by Andrew Tobias).
 
 ### The Lesson
 
