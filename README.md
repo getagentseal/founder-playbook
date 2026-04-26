@@ -10,8 +10,9 @@ Built for [Claude Code](https://claude.ai/claude-code) (auto-triggers based on y
 
 ## What's Inside
 
-| Skill | Source Book | Use When |
-|-------|-----------|----------|
+| Skill | Source | Use When |
+|-------|--------|----------|
+| **[diagnose](diagnose/SKILL.md)** | **Meta-skill (routes across all 14)** | **Don't know where to start, multiple problems, "nothing is working"** |
 | [mom-test](mom-test/SKILL.md) | The Mom Test - Rob Fitzpatrick | Customer interviews, validating ideas without leading questions |
 | [four-steps](four-steps/SKILL.md) | The Four Steps to the Epiphany - Steve Blank | Finding first customers, Customer Development, Market Type |
 | [lean-startup](lean-startup/SKILL.md) | The Lean Startup - Eric Ries | Build-Measure-Learn, MVPs, pivots, innovation accounting |
@@ -63,6 +64,7 @@ done
 
 Then just talk naturally. Claude reads the skill descriptions (~100 tokens each) and auto-loads the right one:
 
+- *"What's wrong with my startup?"* - loads Diagnose (routes you to the right skill)
 - *"I'm interviewing customers tomorrow"* - loads Mom Test
 - *"Should we pivot?"* - loads Lean Startup
 - *"Which marketing channel should we use?"* - loads Traction
@@ -102,6 +104,7 @@ This means Claude loads ~100 tokens per skill at startup (just the description),
 For founders going from idea to scale:
 
 ```
+0.  diagnose              Don't know where to start? Start here.
 1.  four-steps            Find customers and validate the business model
 2.  lean-startup          Build-Measure-Learn iteration speed
 3.  mom-test              How to talk to customers without biasing them
