@@ -41,7 +41,13 @@ Each skill also includes an honest scope section: what the book got right, what'
 
 ## How to Use
 
-### With Claude Code (recommended - auto-triggers)
+### Quick Install
+
+```bash
+npx skills add getagentseal/founder-playbook
+```
+
+### Manual Install
 
 ```bash
 # Clone the repo
