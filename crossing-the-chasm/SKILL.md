@@ -21,6 +21,10 @@ Is your product targeting enterprise buyers (>$10K deals, multi-stakeholder)?
         ├─ Marketplace (Airbnb-like) → Two-sided dynamics don't map to TALC; use Blue Ocean Strategy for market creation
         └─ AI-native (Cursor, Claude) → Adoption patterns unprecedented; use Four Steps to Epiphany for customer discovery, this skill for enterprise positioning only
 
+Do you have at least 10 paying customers or repeatable early-adopter revenue?
+├─ YES → Continue
+└─ NO  → You're still in Customer Discovery/Validation. Use four-steps and mom-test first. Come back when you have real traction.
+
 Are you currently in early market (visionaries buying)?
 ├─ YES → This skill is for you
 └─ NO, you're already mainstream → You're past the chasm. Use Inside the Tornado concepts (bowling alley, tornado, main street)

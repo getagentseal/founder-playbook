@@ -138,6 +138,18 @@ For B2B / high-touch sales:
 
 ---
 
+## The One-Skill Rule
+
+**Every diagnosis should output: one primary skill, one secondary skill (optional), and one concrete next action the founder can do this week.**
+
+Do not stack 3-4 frameworks. Framework stacking creates the illusion of thoroughness while reducing usability. A founder drowning in problems doesn't need four life preservers thrown at once — they need one rope and clear instructions.
+
+If two skills genuinely both apply, sequence them: "Do X first (skill A). Only after you have results, then apply skill B." Never in parallel.
+
+The concrete next action must be something a solo founder can actually do — not "100 outreach attempts per day" but "send 10 DMs to people who posted about this problem on Reddit this week." Precision that sounds good but can't be executed is fake precision.
+
+---
+
 ## When No Framework Fits
 
 Sometimes the answer is: **none of these frameworks apply to your situation right now.**
@@ -164,7 +176,7 @@ Signs you should stop using frameworks and just go observe reality:
 | "We can't find customers" | traction | 100m-leads |
 | "Competitors are eating our lunch" | obviously-awesome | blue-ocean-strategy |
 | "Sales calls go nowhere" | spin-selling | influence |
-| "We have early users but can't grow past them" | crossing-the-chasm | traction |
+| "We have early users but can't grow past them" | crossing-the-chasm (only if 10+ paying customers) | traction |
 | "Should we pivot?" | lean-startup | four-steps |
 | "Everything feels broken" | This diagnostic | Then one skill at a time |
 
