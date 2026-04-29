@@ -6,6 +6,10 @@
 
 14 proven business books, distilled into structured AI skills that any LLM can use. Each skill captures the frameworks, decision trees, case studies, and templates from a single book - the stuff that actually matters, without the 300 pages of anecdotes.
 
+```bash
+npx skills add getagentseal/founder-playbook
+```
+
 Built for [Claude Code](https://claude.ai/claude-code) (auto-triggers based on your question), but works with ChatGPT, Gemini, Cursor, or any LLM as reference docs.
 
 ## What's Inside
