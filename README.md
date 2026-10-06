@@ -16,22 +16,22 @@ Built for [Claude Code](https://claude.ai/claude-code) (auto-triggers based on y
 
 | Skill | Source | Use When |
 |-------|--------|----------|
-| **[diagnose](diagnose/SKILL.md)** | **Meta-skill (routes across all 15)** | **Don't know where to start, multiple problems, "nothing is working"** |
-| [mom-test](mom-test/SKILL.md) | The Mom Test - Rob Fitzpatrick | Customer interviews, validating ideas without leading questions |
-| [four-steps](four-steps/SKILL.md) | The Four Steps to the Epiphany - Steve Blank | Finding first customers, Customer Development, Market Type |
-| [lean-startup](lean-startup/SKILL.md) | The Lean Startup - Eric Ries | Build-Measure-Learn, MVPs, pivots, innovation accounting |
-| [obviously-awesome](obviously-awesome/SKILL.md) | Obviously Awesome - April Dunford | Positioning, category choice, competitive context |
-| [crossing-the-chasm](crossing-the-chasm/SKILL.md) | Crossing the Chasm - Geoffrey Moore | Tech adoption, beachhead strategy, mainstream scaling |
-| [blue-ocean-strategy](blue-ocean-strategy/SKILL.md) | Blue Ocean Strategy - Kim & Mauborgne | Category creation, escaping competition |
-| [monetizing-innovation](monetizing-innovation/SKILL.md) | Monetizing Innovation - Ramanujam & Tacke | Pricing strategy, willingness-to-pay, product+price design |
-| [spin-selling](spin-selling/SKILL.md) | SPIN Selling - Neil Rackham | B2B sales, complex deals, multi-stakeholder selling |
-| [100m-offers](100m-offers/SKILL.md) | $100M Offers - Alex Hormozi | Offer design, packaging, making offers irresistible |
-| [100m-leads](100m-leads/SKILL.md) | $100M Leads - Alex Hormozi | Lead generation, advertising, outbound and inbound strategy |
-| [money-models](money-models/SKILL.md) | $100M Money Models - Alex Hormozi | Offer sequencing, upsells, downsells, continuity, making customer acquisition self-funding |
-| [influence](influence/SKILL.md) | Influence - Robert Cialdini | Persuasion principles, negotiation, defense against manipulation |
-| [traction](traction/SKILL.md) | Traction - Gabriel Weinberg & Justin Mares | Growth channels, Bullseye Framework, customer acquisition |
-| [storybrand](storybrand/SKILL.md) | Building a StoryBrand - Donald Miller | Brand messaging, website copy, email campaigns, SB7 Framework |
-| [made-to-stick](made-to-stick/SKILL.md) | Made to Stick - Chip & Dan Heath | Making messages memorable, pitches, presentations, SUCCESs Framework |
+| **[diagnose](skills/diagnose/SKILL.md)** | **Meta-skill (routes across all 15)** | **Don't know where to start, multiple problems, "nothing is working"** |
+| [mom-test](skills/mom-test/SKILL.md) | The Mom Test - Rob Fitzpatrick | Customer interviews, validating ideas without leading questions |
+| [four-steps](skills/four-steps/SKILL.md) | The Four Steps to the Epiphany - Steve Blank | Finding first customers, Customer Development, Market Type |
+| [lean-startup](skills/lean-startup/SKILL.md) | The Lean Startup - Eric Ries | Build-Measure-Learn, MVPs, pivots, innovation accounting |
+| [obviously-awesome](skills/obviously-awesome/SKILL.md) | Obviously Awesome - April Dunford | Positioning, category choice, competitive context |
+| [crossing-the-chasm](skills/crossing-the-chasm/SKILL.md) | Crossing the Chasm - Geoffrey Moore | Tech adoption, beachhead strategy, mainstream scaling |
+| [blue-ocean-strategy](skills/blue-ocean-strategy/SKILL.md) | Blue Ocean Strategy - Kim & Mauborgne | Category creation, escaping competition |
+| [monetizing-innovation](skills/monetizing-innovation/SKILL.md) | Monetizing Innovation - Ramanujam & Tacke | Pricing strategy, willingness-to-pay, product+price design |
+| [spin-selling](skills/spin-selling/SKILL.md) | SPIN Selling - Neil Rackham | B2B sales, complex deals, multi-stakeholder selling |
+| [100m-offers](skills/100m-offers/SKILL.md) | $100M Offers - Alex Hormozi | Offer design, packaging, making offers irresistible |
+| [100m-leads](skills/100m-leads/SKILL.md) | $100M Leads - Alex Hormozi | Lead generation, advertising, outbound and inbound strategy |
+| [money-models](skills/money-models/SKILL.md) | $100M Money Models - Alex Hormozi | Offer sequencing, upsells, downsells, continuity, making customer acquisition self-funding |
+| [influence](skills/influence/SKILL.md) | Influence - Robert Cialdini | Persuasion principles, negotiation, defense against manipulation |
+| [traction](skills/traction/SKILL.md) | Traction - Gabriel Weinberg & Justin Mares | Growth channels, Bullseye Framework, customer acquisition |
+| [storybrand](skills/storybrand/SKILL.md) | Building a StoryBrand - Donald Miller | Brand messaging, website copy, email campaigns, SB7 Framework |
+| [made-to-stick](skills/made-to-stick/SKILL.md) | Made to Stick - Chip & Dan Heath | Making messages memorable, pitches, presentations, SUCCESs Framework |
 
 ## Why This Exists
 
@@ -60,7 +60,7 @@ npx skills add getagentseal/founder-playbook
 git clone https://github.com/getagentseal/founder-playbook.git
 
 # Symlink into Claude's skills directory
-for skill in founder-playbook/*/SKILL.md; do
+for skill in founder-playbook/skills/*/SKILL.md; do
   dir=$(dirname "$skill")
   name=$(basename "$dir")
   ln -sfn "$(pwd)/$dir" ~/.claude/skills/$name

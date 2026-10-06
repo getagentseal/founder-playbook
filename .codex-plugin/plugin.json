@@ -10,7 +10,7 @@
   "repository": "https://github.com/getagentseal/founder-playbook",
   "license": "MIT",
   "keywords": ["startup", "founder", "positioning", "pricing", "sales", "growth"],
-  "skills": "./",
+  "skills": "./skills/",
   "interface": {
     "displayName": "Founder Playbook",
     "shortDescription": "15 business books as founder skills",
