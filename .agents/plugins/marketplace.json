@@ -1,0 +1,21 @@
+{
+  "name": "founder-playbook",
+  "interface": {
+    "displayName": "Founder Playbook"
+  },
+  "plugins": [
+    {
+      "name": "founder-playbook",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/getagentseal/founder-playbook.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

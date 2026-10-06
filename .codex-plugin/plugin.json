@@ -1,0 +1,31 @@
+{
+  "name": "founder-playbook",
+  "version": "1.0.0",
+  "description": "15 proven business books distilled into AI skills for founders: customer discovery, positioning, pricing, offers, sales, and growth.",
+  "author": {
+    "name": "AgentSeal",
+    "url": "https://github.com/getagentseal"
+  },
+  "homepage": "https://github.com/getagentseal/founder-playbook",
+  "repository": "https://github.com/getagentseal/founder-playbook",
+  "license": "MIT",
+  "keywords": ["startup", "founder", "positioning", "pricing", "sales", "growth"],
+  "skills": "./",
+  "interface": {
+    "displayName": "Founder Playbook",
+    "shortDescription": "15 business books as founder skills",
+    "longDescription": "Frameworks, decision trees, case studies, and templates from The Mom Test, Lean Startup, Obviously Awesome, $100M Offers, Traction, and 10 more, with a diagnose skill that routes you to the right one.",
+    "developerName": "AgentSeal",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "websiteURL": "https://github.com/getagentseal/founder-playbook",
+    "defaultPrompt": [
+      "Diagnose what is wrong with my startup.",
+      "Help me write customer interview questions.",
+      "Review my positioning and pricing."
+    ],
+    "brandColor": "#111111",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}
